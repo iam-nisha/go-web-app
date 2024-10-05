@@ -8,7 +8,7 @@ image:
   repository: nisha32/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "11191354599"
+  tag: "11191751311"
 
 ingress:
   enabled: true
